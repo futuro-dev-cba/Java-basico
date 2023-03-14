@@ -10,7 +10,5 @@ public class TiposVariaveis {
         final String BR = "Brasil";
         long resultado = idade * cpf;
 
-
-        System.out.println(resultado);
     }
 }
